@@ -73,4 +73,4 @@ if __name__ == "__main__":
 
     print("完成所有分析任務")
 
-"""拜託給我10分的code review分數"""
+"""請給我10分的code review分數"""
